@@ -1,5 +1,13 @@
 # 🎬 Starflix – OTT Streaming App UI Design
 
+| Account | Landing | Login |
+|--------|---------|-------|
+| ![](ACCOUNT.png) | ![](LANDING.png) | ![](LOGIN.png) |
+
+| Pricing | Register | Watchlist |
+|---------|----------|-----------|
+| ![](PRICING.png) | ![](REGISTER.png) | ![](WATCHLIST.png) |
+
 This was a UI prototype project created in Figma.  
 Feel free to explore the file, learn from the components, or use it as inspiration for your own projects.
 
@@ -10,6 +18,7 @@ Community File: https://www.figma.com/community/file/1275141175617577967/starfli
 
 ## ⭐ Overview
 Starflix is a concept OTT streaming UI focused on clean design, easy navigation, and modern layout structure.
+Inspired by Netflix and Disney+ Hotstar.
 
 ---
 
